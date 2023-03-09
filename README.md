@@ -1,8 +1,8 @@
-# WinLicense 2.x, 3.x File Format Demo
+# WinLicense 2.x, 3.x Registration File Key Format Demo
 
 Demonstrates how WL registration file keys are constructed from hash and keys generated at protection time.
 
-See regkey for full explanation of everything happening here.
+See [regkey_format.pdf](https://github.com/charlesnathansmith/wl_regkey/blob/main/regkey_format.pdf) for full explanation of everything happening here.
 
 This all was constructed by reverse engineering their freely available key generation binaries.
 
