@@ -1,4 +1,4 @@
-# WinLicense 2.x, 3.x Registration File Key Format Demo
+# WinLicense 2.x, 3.x Registration Key File Format Demo
 
 Demonstrates how WL registration file keys are constructed from hash and keys generated at protection time.
 
